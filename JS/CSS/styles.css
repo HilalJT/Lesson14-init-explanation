@@ -1,0 +1,16 @@
+
+h1 {
+    color: purple;
+    font-size: 55px;
+    font-weight: bold;
+}
+h2 {
+    color: green;
+}
+.my-paragraphs {
+    text-align: center;
+}
+#my-third-paragraph {
+    color: blue;
+    background-color: yellow;
+}
